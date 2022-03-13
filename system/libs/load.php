@@ -6,7 +6,7 @@
 * Email imgeweb@gmail(dot)com
 * Web www(dot)matgis(dot)com(dot)tr
 */
-/*
+/* 
  * Load sınıfı ile istenilen dosyalara daha rahat ulaşabilmeyi sağlamaktadır.Yani gelen filename adı ile istenilen
  * klasör altındaki istenilen sınıfa $this->load->$filename('') şeklinde ulaşabileceğiz
  */

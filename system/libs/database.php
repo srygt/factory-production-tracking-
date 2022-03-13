@@ -8,7 +8,7 @@
 */
 class database extends PDO{
     //kurucu metod    
-   public function __construct($dsn, $user, $password) {
+    public function __construct($dsn, $user, $password) {
    parent::__construct($dsn, $user, $password);
    ob_start();
    session::checksession();

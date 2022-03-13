@@ -6,7 +6,7 @@
 * Email imgeweb@gmail(dot)com
 * Web www(dot)matgis(dot)com(dot)tr
 */
-/**
+/** 
  * Bootstrap Class'ı
  * 
  * Bu class url'e göre yönlendirme yapmaktadır.
